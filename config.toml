@@ -60,7 +60,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 patcher-args = """\
   -OappIcon='Revancify Red' \
-  -OappName=RVX \
+  -OappName='YouTube RVX' \
   """
 
 [Twitch]
