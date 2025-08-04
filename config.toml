@@ -59,7 +59,7 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 patcher-args = """\
-  -OappIcon='Revancify Red' \
+  -OappIcon='revancify_red' \
   -OappName='YouTube RVX' \
   """
 
