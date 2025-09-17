@@ -1,6 +1,6 @@
 {
-  "version": "v19.47.53 (patches 3.12.0)",
-  "versionCode": 8,
-  "zipUrl": "https://github.com/skrimix/revanced-magisk/releases/download/8/youtube-revanced-extended-magisk-v19.47.53-all.zip",
+  "version": "v19.47.53 (patches 3.13.0)",
+  "versionCode": 9,
+  "zipUrl": "https://github.com/skrimix/revanced-magisk/releases/download/9/youtube-revanced-extended-magisk-v19.47.53-all.zip",
   "changelog": "https://raw.githubusercontent.com/skrimix/revanced-magisk/update/build.md"
 }
