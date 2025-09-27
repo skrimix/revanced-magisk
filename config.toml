@@ -50,7 +50,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-Extended]
 app-name = "YouTube"
-included-patches = "'Visual preferences icons' 'Custom branding name for YouTube'"
+included-patches = "'Visual preferences icons' 'Custom branding icon for YouTube' 'Custom branding name for YouTube'"
 excluded-patches = "'Theme' 'Always autorepeat'"
 patches-source = "anddea/revanced-patches"
 cli-source = "inotia00/revanced-cli"
@@ -59,6 +59,7 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 patcher-args = """\
+  -OappIcon='revancify_red' \
   -OappName='YouTube RVX' \
   """
 
